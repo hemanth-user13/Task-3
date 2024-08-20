@@ -1,0 +1,69 @@
+{
+    "amazon": {
+        "products": [
+            {
+                "id": 1,
+                "product_name": "iphone 13",
+                "brand": "apple",
+                "price": 150000
+            },
+            {
+                "id": 2,
+                "product_name": "lenovo laptop",
+                "brand": "lenovo",
+                "price": 300000
+            }
+        ]
+    },
+    "flipkart": {
+        "products": [
+            {
+                "id": 1,
+                "product_name": "iphone 13",
+                "brand": "apple",
+                "price": 150000
+            },
+            {
+                "id": 2,
+                "product_name": "lenovo laptop",
+                "brand": "lenovo",
+                "price": 300000
+            }
+        ]
+    },
+    "cellbay": {
+        "products": [
+            {
+                "id": 1,
+                "product_name": "iphone 13",
+                "brand": "apple",
+                "price": 150000
+            },
+            {
+                "id": 2,
+                "product_name": "lenovo laptop",
+                "brand": "lenovo",
+                "price": 300000
+            }
+        ]
+    },
+    "snapStore": {
+        "products": [
+            {
+                "id": 1,
+                "product_name": "iphone 13",
+                "brand": "apple",
+                "price": 150000
+            },
+            {
+                "id": 2,
+                "product_name": "lenovo laptop",
+                "brand": "lenovo",
+                "price": 300000
+            }
+        ]
+    },
+    "test":[
+        
+    ]
+}
